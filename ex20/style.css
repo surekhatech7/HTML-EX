@@ -1,0 +1,90 @@
+body{
+	background: #664400;
+}
+
+h1{
+	margin: 0px;
+}
+
+body .Header{
+	width: 80%;
+	background:  #805500;
+	height: 100px;
+	margin: 0px auto;
+	text-align: center;
+	line-height: 100px;
+	color: #ffffff;
+}
+body .Nav{
+	background:  #805500;
+	height: 70px;
+	margin-top: 20px;
+
+}
+
+body .Nav .Menu{
+	width: 80%;
+	margin: 0px auto;
+}
+
+body .Nav .Menu ul{
+	margin: 0px;
+	padding: 0px;
+	line-height: 70px;
+}
+
+body .Nav .Menu ul li{
+	list-style: none;
+	display: inline;
+	margin-right: 30px;
+}
+
+body .Nav .Menu ul li a{
+	text-decoration: none;
+	color: #ffffff;
+}
+
+body .Middle{
+	width: 80%;
+	margin: 0px auto;
+	background: #ffffff;
+	margin-top: 20px;
+	text-align: center;
+	padding-top: 30px;
+	color: #997300;
+}
+
+body .Middle .Wrapper{
+	overflow: auto;
+	margin-top: 30px;
+	color: #ffffff;
+}
+
+body .Middle .Wrapper .Block{
+	width: 30%;
+	background: #805500;
+	height: 250px;
+	margin: 5px;
+	line-height: 250px;
+}
+
+
+body .Middle .Wrapper .Left{
+	float: left;
+}
+
+body .Middle .Wrapper .Margin{
+	margin-left: 42px;
+}
+body .Middle .Wrapper .Right{
+	float: right;
+}
+
+body .Middle .Dots{
+	font-size: 30px;
+}
+
+body .Middle h2{
+	text-align: left;
+	margin-left: 30px;
+}

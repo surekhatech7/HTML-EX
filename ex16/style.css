@@ -1,0 +1,79 @@
+body,h1,h3{
+	margin: 0px;
+}
+.wrapper1{
+	background: #3C3C3C;
+	height: 100px;
+}
+.head{
+	background: black;
+	height: 80px;
+	width: 200px;
+	color: white;
+	float: left;
+
+}
+.menu{
+	background: black;
+	height: 50px;
+	width: 400px;
+	float: right;
+}
+.list{
+	color: white;
+}
+.wrapper2{
+	overflow: auto;
+}
+.main{
+	background: #3C3C3C;
+	height: 400px;
+	width: 1290px;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+.left{
+	background: #3C3C3C;
+	height: 200px;
+	width: 30%;
+	float: left;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+.middle{
+	background: #3C3C3C;
+	height: 200px;
+	width: 31%;
+	float: right;
+	margin-top: 30px;
+	margin-right: 30px;
+}
+.right{
+	background: #3C3C3C;
+	height: 200px;
+	width: 30%;
+	float: right;
+	margin-top: 30px;
+	margin-right: 30px;
+}
+.leftpara{
+	height: 150px;
+	width: 30%;
+	float: left;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+.middlepara{
+	height: 150px;
+	width: 31%;
+	float: right;
+	margin-top: 30px;
+	margin-right: 30px;
+}
+.rightpara{
+	height: 150px;
+	width: 30%;
+	float: right;
+	margin-top: 30px;
+	margin-right: 30px;
+}

@@ -1,0 +1,45 @@
+body{
+	margin:0px;
+}
+h4{
+	margin:0px;
+}
+div.Header{
+	height: 100px;
+	width: 100%;
+	color: black;
+	background: lime;
+	padding-left: 10px;
+}
+div.Nav{
+	height: 400px;
+	width: 250px;
+	color: black;
+	background: #ccff99;
+	padding-left: 10px;
+	float: left;
+}
+div.Article{
+	height: 400px;
+	width: 810px;
+	color: black;
+	background: white;
+	padding-left: 10px;
+	float: left;
+}
+div.Aside{
+	height: 400px;
+	width: 250px;
+	color: black;
+	background: #ccff99;
+	padding-left: 10px;
+	float:right;
+}
+div.Footer{
+	height: 100px;
+	width: 100%;
+	color: black;
+	background: lime;
+	padding-left: 10px;
+	float: left;
+}

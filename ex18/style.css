@@ -1,0 +1,166 @@
+body, h1, h2{
+	margin: 0px;
+}
+
+.Header{
+	background: #373742;
+	color: #fff;
+	padding-top: 10px;
+	padding-left: 20px;
+	height: 100px;
+
+	
+}
+.Head{
+	float: left;
+	width: 20%;
+}
+.Menu{
+	margin-left:50px;
+	margin-top: 20px;
+	background: #09090a;
+}
+.List{
+	float: right;
+	width: 430px;
+	height: 50px;
+	background: #000;
+	margin: 20px;
+
+}
+ul li{
+	display: inline;
+	margin-right: 30px;
+}
+
+ul li a{
+		color: #fff;
+		text-decoration: none;
+}
+.Main1{
+	background: #D2D2D2;
+	height: 330px;
+	width: 340px;
+	margin-top: 20px;
+	margin-right: 10px;
+	margin-left: 50px;
+	padding-left: 10px;
+	padding-top: 30px;
+	display: inline-block;
+}
+.Main2{
+	background: #373742;
+	height: 360px;
+	width: 900px;
+	margin-top: 20px;
+	margin-right: 10px;
+	display: inline-block;
+}
+.wrap{
+	overflow: auto;
+	
+}
+.Left{
+	width: 20%;
+	height: 180px;
+	background:  #373742;
+	float: left; 
+	margin: 10px;
+	margin-left: 40px;
+	
+}
+.Right{
+	width: 22%;
+	height: 180px;
+	background:  #373742;
+	float: right; 
+	margin: 10px;
+	margin-right: 50px;
+}
+.Right1{
+	width: 22%;
+	height: 180px;
+	background:  #373742;
+	float: right; 
+	margin: 10px;
+	margin-right: 23px;
+}
+.Middle{
+	width: 22%;
+	height: 180px;
+	background:  #373742;
+	float: right; 
+	margin: 10px;
+	margin-right: 25px;
+}
+.Leftpara{
+	width: 22%;
+	height: 180px;
+	float: left; 
+	margin: 10px;
+	margin-left: 50px;
+}
+.Rightpara{
+	width: 22%;
+	height: 180px;
+	float: right; 
+	margin: 10px;
+	margin-right: 50px;
+}
+.Rightpara1{
+	width: 22%;
+	height: 180px;
+	float: right; 
+	margin: 10px;
+	margin-right: 10px;
+}
+.Middlepara{
+	width: 22%;
+	height: 180px;
+	float: right; 
+	margin: 10px;
+	margin-left: 10px;
+	margin-right: 150px;
+}
+.Leftfont{
+	width: 6%;
+	height: 50px;
+	float: left; 
+	margin: 10px;
+	margin-left: 240px;
+	color: orange;
+}
+.Rightfont{
+	width: 6%;
+	height: 50px;
+	float: right; 
+	margin: 10px;
+	margin-right: 50px;
+	color: orange;
+}
+.Middlefont{
+	width: 6%;
+	height: 50px;
+	float: right; 
+	margin: 10px;
+	margin-right: 370px;
+	color: orange;
+}
+.dottedline{
+	margin-left: 45px;
+}
+.div1{
+	height: 80px;
+	width: 80px;
+	background: #373742;
+}
+.div2{
+	height: 80px;
+	width: 80px;
+	background: #373742;
+}
+.div3{
+	height: 80px;
+	width: 80px;
+	background: #373742;
+}

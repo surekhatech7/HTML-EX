@@ -1,0 +1,157 @@
+body{
+	background: black;
+}
+.main{
+	background: white;
+	height: 550px;
+	width: 550px;
+	margin-left: 370px;
+	margin-top: 50px;
+}
+.wrapper1{
+	overflow: auto;
+}
+.div1{
+	background: black;
+	height: 20px;
+	width: 100px;
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.div2{
+	background: black;
+	height: 15px;
+	width: 100px;
+	display: inline-block;
+	margin-bottom: 3px;
+	margin-top: 5px;
+}
+.div3{
+	background: black;
+	height: 15px;
+	width: 100px;
+	display: inline-block;
+	margin-top: 5px;
+	margin-bottom: 3px;
+	margin-left: 220px;
+}
+.div4{
+	background: black;
+	height: 20px;
+	width: 530px;
+	margin-left: 10px;
+	margin-bottom: 3px;
+	margin-top: 5px;
+}
+.wrapper2{
+	overflow: auto;
+}
+.div5{
+	background: black;
+	height: 100px;
+	width: 400px;
+	margin-left: 10px;
+	margin-top: 5px;
+	margin-right: 5px;
+	display: inline-block;
+}
+.div6{
+	background: black;
+	height: 100px;
+	width: 120px;
+	margin-top: 5px;
+	display: inline-block;
+}
+.wrapper3{
+	overflow: auto;
+	background: black;
+	height: 365px;
+	width: 530px;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+.wrapper4{
+	overflow: auto;
+	background: black;
+	height: 365px;
+	width: 330px;
+	float: left;
+}
+.div7{
+	background: white;
+	height: 90px;
+	width: 150px;
+	margin-left: 10px;
+	margin-top: 10px;
+	float: left;
+}
+.div8{
+	background: white;
+	height: 90px;
+	width: 150px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	float: right;
+}
+.div9{
+	background: white;
+	height: 90px;
+	width: 150px;
+	margin-left: 10px;
+	margin-top: 10px;
+	float: left;
+}
+.div10{
+	background: white;
+	height: 90px;
+	width: 150px;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	float: right;
+}
+.div11{
+	background: white;
+	height: 20px;
+	width: 100px;
+	margin-left: 10px;
+	margin-top: 35px;
+	float: left;
+}
+.div12{
+	background: white;
+	height: 20px;
+	width: 120px;
+	margin-left: 10px;
+	margin-top: 35px;
+	margin-right: 40px;
+	float: right;
+}
+.div13{
+	background: white;
+	height: 90px;
+	width: 150px;
+	margin-left: 10px;
+	margin-top: 10px;
+	float: left;
+}
+.div14{
+	background: white;
+	height: 90px;
+	width: 150px;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	float: right;
+}
+.div15{
+	background: white;
+	height: 345px;
+	width: 180px;
+	margin-left: 10px;
+	margin-top: 10px;
+	display: inline-block;
+}
+

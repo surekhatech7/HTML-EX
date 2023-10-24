@@ -1,0 +1,105 @@
+.main1{
+	background: black;
+	height: 550px;
+	width: 200px;
+	margin-left: 300px;
+	margin-top: 50px;
+	float: left;
+}
+.div1{
+	background: white;
+	height: 100px;
+	width: 180px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.div2{
+	background: white;
+	height: 20px;
+	width: 140px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.div3{
+	background: white;
+	height: 20px;
+	width: 160px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.div4{
+	background: white;
+	height: 20px;
+	width: 150px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.div5{
+	background: white;
+	height: 20px;
+	width: 140px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.main2{
+	background: #A5A5A5;
+	height: 550px;
+	width: 500px;
+	display: inline-block;
+	margin-top: 50px;
+}
+.div6{
+	background: black;
+	height: 20px;
+	width: 150px;
+	margin-top: 90px;
+	margin-left: 10px;
+}
+.div7{
+	background: black;
+	height: 250px;
+	width: 480px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.wrapper{
+	overflow: auto;
+}
+.div8{
+	background: black;
+	height: 100px;
+	width: 150px;
+	margin-top: 10px;
+	margin-left: 10px;
+	display: inline-block;
+}
+.div9{
+	background: black;
+	height: 100px;
+	width: 150px;
+	margin-top: 10px;
+	margin-left: 10px;
+	display: inline-block;
+}
+.div10{
+	background: black;
+	height: 100px;
+	width: 150px;
+	margin-top: 10px;
+	margin-left: 10px;
+	display: inline-block;
+}
+.div11{
+	background: black;
+	height: 20px;
+	width: 480px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.div12{
+	background: black;
+	height: 20px;
+	width: 150px;
+	margin-top: 10px;
+	margin-left: 10px;
+}

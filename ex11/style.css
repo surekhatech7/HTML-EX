@@ -1,0 +1,80 @@
+.center{
+	background: white;
+	height: 500px;
+	width: 600px;
+	margin-left: 370px;
+	margin-top: 80px;
+}
+.wrapper{
+	overflow: auto;
+}
+.inner1{
+	background: black;
+	height: 20px;
+	width: 100px;
+	margin-top: 20px;
+	margin-left: 20px;
+	display: inline-block;
+}
+.inner2{
+	background: black;
+	height: 20px;
+	width: 25px;
+	margin-top: 20px;
+	margin-left: 380px;
+	display: inline-block;
+}
+.inner3{
+	background: black;
+	height: 20px;
+	width: 25px;
+	margin-top: 20px;
+	margin-left: 20px;
+	display: inline-block;
+}
+.main{
+	background: black;
+	height: 320px;
+	width: 560px;
+	margin-top: 15px;
+	margin-left: 20px;
+}
+.wrapper1{
+	overflow: auto;
+}
+.inner4{
+	background: black;
+	height: 80px;
+	width: 125px;
+	margin-top: 20px;
+	margin-left: 20px;
+	display: inline-block;
+}
+.inner5{
+	background: black;
+	height: 80px;
+	width: 125px;
+	margin-top: 20px;
+	margin-left: 15px;
+	display: inline-block;
+}
+.inner6{
+	background: black;
+	height: 80px;
+	width: 125px;
+	margin-top: 20px;
+	margin-left: 15px;
+	display: inline-block;
+}
+.inner7{
+	background: black;
+	height: 80px;
+	width: 125px;
+	margin-top: 20px;
+	margin-left: 15px;
+	display: inline-block;
+}
+.seperatediv{
+	background: black;
+	height: 50px;
+}

@@ -1,0 +1,43 @@
+body{
+		margin: 0px;
+}
+.nav{
+	background: green;
+	height: 650px;
+	width: 225px;
+	float: left;
+}
+.wrapper{
+	overflow: auto;
+}
+.h4{
+	margin: 0px;
+}
+.header{
+	background: green;
+	height: 100px;
+	width: 1130px;
+	float: right;
+	margin-bottom: 10px;
+}
+.article{
+	background: green;
+	height: 330px;
+	width: 1130px;
+	float: right;
+	margin-bottom: 10px;
+}
+.ads{
+	background: green;
+	height: 90px;
+	width: 1130px;
+	float: right;
+	margin-bottom: 10px;
+}
+.footer{
+	background: green;
+	height: 100px;
+	width: 1130px;
+	float: right;
+}
+

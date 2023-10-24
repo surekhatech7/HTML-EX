@@ -1,0 +1,42 @@
+body{
+	margin:0px;
+}
+h1{
+	margin:0px;
+}
+div.Header{
+	height: 100px;
+	color: black;
+	background: yellow;
+	margin-bottom: 15px;
+}
+div.Nav{
+	height: 400px;
+	width: 380px;
+	display: inline-block;
+	color: black;
+	background: yellow;
+	margin-right: 10px;
+}
+div.Article{
+	height: 400px;
+	width: 540px;
+	display: inline-block;
+	color: black;
+	background: yellow;
+	margin-right: 15px;
+}
+div.Ads{
+	height: 400px;
+	width: 400px;
+	float: right;
+	display: inline-block;
+	color: black;
+	background: yellow;
+}
+div.Footer{
+	height: 100px;
+	color: black;
+	margin-top: 15px;
+	background: yellow;
+}

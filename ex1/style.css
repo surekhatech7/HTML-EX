@@ -1,0 +1,28 @@
+div.header{
+	height: 150px;
+	color: white;
+	background-color: green;
+	text-align: center;
+	padding-top: 10px;
+}
+div.middlesection{
+	height: 150px;
+	color: red;
+	background-color: gray;
+	text-align: center;
+	padding-top: 10px;
+}
+div.adevertisement{
+	height: 150px;
+	color: black;
+	background-color: yellow;
+	text-align: center;
+	padding-top: 10px;
+}
+div.footer{
+	height: 150px;
+	color: brown;
+	background-color: blue;
+	text-align: center;
+	padding-top: 10px;
+}
